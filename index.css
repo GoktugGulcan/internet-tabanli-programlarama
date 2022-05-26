@@ -8,3 +8,20 @@ ul#menu li a:hover{
     color: rgb(233, 20, 41) !important;
 
 }
+
+#mainInfo{
+    background-color: rgb(46, 1, 46) !important;
+ }
+ .py-6{
+     padding: 9rem 0px;
+ }
+  .infozet{
+     font-weight: 400;
+  }
+  #mainozet{
+      font-weight: 500;
+  }
+  #mainbutton{
+    font-weight: 300;  
+    font: size 13px;
+  }
