@@ -25,3 +25,14 @@ ul#menu li a:hover{
     font-weight: 300;  
     font: size 13px;
   }
+  .bg-orange{
+    background-color:darkgoldenrod;
+}
+.cardUpper{
+    text-transform: uppercase;
+
+}
+a.cardUpper:hover{
+    color: rebeccapurple !important;;
+    
+}
